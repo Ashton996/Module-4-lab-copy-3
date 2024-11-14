@@ -1,0 +1,51 @@
+#header {
+    color: maroon;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 0;
+}
+#name {
+    color: #eeaadd;
+    position: absolute;
+    left: 150px;
+}
+#Background {
+    position: static;
+    border: 0;
+    margin-left: 160px;
+    margin-top: 20px;
+}
+#future {
+    position: sticky;
+    border: 0;
+    margin-left: 162px;
+    top:10px;
+    bottom:0px;
+}
+#Skibidi {
+    position: static;
+top:-10px;
+    margin-left: 155px;
+    bottom:0px;
+}
+#Toilet {
+    position: relative;
+    border: 0;
+    margin-left: 160px;
+    top:15px;
+    bottom:0px;
+    float: left;
+}
+section{
+    display:block;
+    position:fixed;
+    width:250px;
+    height:75px;
+    background-color: purple;
+    text-align: center;
+    padding-top: 25px;
+    bottom:0;
+    left:0;
+    color:white;
+}
